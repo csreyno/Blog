@@ -96,7 +96,7 @@ To number the list:
         print("%d: %s" % (count, todo))
         count += 1
 
-### <u>Adding Items to a List</u> ***
+### <u>Adding Items to a List</u>
 1. ".append( )" method
 
     fruit = ["apple", "orange", "banana", grape"]
